@@ -51,7 +51,7 @@ const About = () => {
         className="mt-4 text-secondary text-[17px]
         max-w-3xl leading-[30px]"
       >
-        I'm a recent Computer Science graduate from 
+        I'm a Computer Science graduate from 
         the University of Maryland, College Park who is currently
         working in NYC. I am passionate about exploring new
         technologies and pushing my limits in the engineering field.
